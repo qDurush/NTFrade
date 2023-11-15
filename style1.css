@@ -1,0 +1,30 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body .main {
+  margin-top: 100px;
+}
+body .main .box {
+  width: 600px;
+  height: 600px;
+  margin-top: 50px;
+}
+body .div1,
+body .div2 {
+  width: 1px;
+  height: 80px;
+  border-radius: 0;
+  background-color: aliceblue;
+  margin-left: 0;
+}
+body .span1 {
+  color: #f8f8f8;
+  font-size: 16px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+body .span2 {
+  color: #e4e4e4;
+  font-size: 16px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}/*# sourceMappingURL=style1.css.map */
